@@ -1,7 +1,7 @@
 # Space Trash Man
 Clean up the solar system in your trusty pickup truck! Unity project for Oculus Rift.
 
-[![demo video](https://img.youtube.com/vi/Cp5Bo1BrcA/0.jpg)](https://www.youtube.com/watch?v=Cp5Bo1BrcA)
+[![demo video](http://img.youtube.com/vi/-Cp5Bo1BrcA/0.jpg)](https://www.youtube.com/watch?v=Cp5Bo1BrcA)
 
 This was for my masters thesis project, 'Travel in Virtual Environments Controlling Orientation with Head and Hand Tracking'.
 I created the pickup truck and this small minigame to test different methods of travel in VR. The two implemented and tested methods were:
